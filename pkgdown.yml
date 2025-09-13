@@ -1,0 +1,24 @@
+pandoc: 3.1.11
+pkgdown: 2.1.3
+pkgdown_sha: ~
+articles:
+  minutes/2021-05-18: minutes/2021-05-18.html
+  minutes/2022-02-12: minutes/2022-02-12.html
+  minutes/2022-03-08: minutes/2022-03-08.html
+  minutes/2022-08-01: minutes/2022-08-01.html
+  minutes/2022-09-12: minutes/2022-09-12.html
+  classes-objects: classes-objects.html
+  compatibility: compatibility.html
+  spec/design: spec/design.html
+  spec/dispatch: spec/dispatch.html
+  generics-methods: generics-methods.html
+  motivation: motivation.html
+  packages: packages.html
+  performance: performance.html
+  spec/proposal: spec/proposal.html
+  spec/requirements: spec/requirements.html
+  S7: S7.html
+last_built: 2025-09-13T23:02Z
+urls:
+  reference: https://rconsortium.github.io/S7/reference
+  article: https://rconsortium.github.io/S7/articles
